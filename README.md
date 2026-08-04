@@ -14,8 +14,8 @@ pip install matplotlib
 ## Installation and Running the Simulation  
 1. Clone the repository.
 ```bash
-git clone https://github.com/crypticallylucid/physicsfinal.git
-cd physicsfinal
+git clone https://github.com/crypticallylucid/thermodynamics-simulation.git
+cd thermodynamics
 ```
 2. If necessary, ensure that `start-gui.sh` is executable. `start-gui.sh` is used to display the simulation through noVNC on ports 5900 and 6080, often needed if the simulation is being run on a displayless virtual machine.
 ```bash
